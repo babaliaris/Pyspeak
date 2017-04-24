@@ -4,8 +4,8 @@ A high level network library which let's you create newtwork applications very e
 Requirements:
     Python 3.
     
-How to create project:
-    Run: python pyspeak project_name
+# How to create project:
+    python pyspeak.py project_name
 
 
 For more information see the documentation in the pdf file.

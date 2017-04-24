@@ -1,5 +1,5 @@
 # Pyspeak
-A high level network library which let's you create newtwork applications very easily without having network experience.
+A high level network library which let's you create network applications very easily without having network experience.
 
 Requirements:
     Python 3.
